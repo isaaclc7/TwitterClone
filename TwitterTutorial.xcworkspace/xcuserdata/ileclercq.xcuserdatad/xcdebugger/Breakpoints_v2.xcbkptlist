@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3FDB2701-5DE5-47F1-8101-BEDF0A19D3DD"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB95DE40-7DAC-4A00-9FA9-BB4C366875D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterTutorial/Controller/EditProfileController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "updateUserData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB95DE40-7DAC-4A00-9FA9-BB4C366875D8 - 70ecd6dd2f2a7b24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwitterTutorial.EditProfileController.updateUserData() -&gt; ()"
+                  moduleName = "TwitterTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ileclercq/Desktop/TwitterTutorial/TwitterTutorial/Controller/EditProfileController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "EB95DE40-7DAC-4A00-9FA9-BB4C366875D8 - 70ecd6dd2f2a7b24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwitterTutorial.EditProfileController.updateUserData() -&gt; ()"
+                  moduleName = "TwitterTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ileclercq/Desktop/TwitterTutorial/TwitterTutorial/Controller/EditProfileController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "EB95DE40-7DAC-4A00-9FA9-BB4C366875D8 - 70ecd6dd2f2a7b66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwitterTutorial.EditProfileController.updateUserData() -&gt; ()"
+                  moduleName = "TwitterTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ileclercq/Desktop/TwitterTutorial/TwitterTutorial/Controller/EditProfileController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8278252-1384-4D01-A264-BD6B7A6C9EC9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterTutorial/Controller/FeedController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "handleFetchUser(withUsername:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C8278252-1384-4D01-A264-BD6B7A6C9EC9 - 1414f9b616de6f0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwitterTutorial.FeedController.handleFetchUser(withUsername: Swift.String) -&gt; ()"
+                  moduleName = "TwitterTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ileclercq/Desktop/TwitterTutorial/TwitterTutorial/Controller/FeedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "C8278252-1384-4D01-A264-BD6B7A6C9EC9 - 1d1efe0251437b7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TwitterTutorial.User) -&gt; () in TwitterTutorial.FeedController.handleFetchUser(withUsername: Swift.String) -&gt; ()"
+                  moduleName = "TwitterTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ileclercq/Desktop/TwitterTutorial/TwitterTutorial/Controller/FeedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "C8278252-1384-4D01-A264-BD6B7A6C9EC9 - 1414f9b616de6e31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwitterTutorial.FeedController.handleFetchUser(withUsername: Swift.String) -&gt; ()"
+                  moduleName = "TwitterTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ileclercq/Desktop/TwitterTutorial/TwitterTutorial/Controller/FeedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "C8278252-1384-4D01-A264-BD6B7A6C9EC9 - 1d1efe0251437a41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TwitterTutorial.User) -&gt; () in TwitterTutorial.FeedController.handleFetchUser(withUsername: Swift.String) -&gt; ()"
+                  moduleName = "TwitterTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ileclercq/Desktop/TwitterTutorial/TwitterTutorial/Controller/FeedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
